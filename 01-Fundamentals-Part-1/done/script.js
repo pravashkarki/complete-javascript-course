@@ -15,8 +15,12 @@ console.log(firstPersonName);
 console.log(first_person_name);
 
 // Can't use
-let 3years = 3;
-let pravash&sunita = "PS";
-let new = 27;
-let function = 27;
-let Person = "Jon";
+// let 3years = 3;
+// let pravash&sunita = "PS";
+// let new = 27;
+// let function = 27;
+// let Person = "Jon";
+
+// Use descriptive name on variables
+let myFirstJob = 'Programmer';
+let myCurrentJob = 'Teacher';
