@@ -12,4 +12,11 @@ let first_person_name = "Pranav";
 console.log(firstName);
 console.log(first);
 console.log(firstPersonName);
-console.log(firstPersonName);
+console.log(first_person_name);
+
+// Can't use
+let 3years = 3;
+let pravash&sunita = "PS";
+let new = 27;
+let function = 27;
+let Person = "Jon";
