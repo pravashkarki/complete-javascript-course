@@ -1,3 +1,4 @@
+//Values and Variables
 let js = "amazing";
 console.log(12 + 36 + 45 - 10);
 
@@ -24,3 +25,26 @@ console.log(first_person_name);
 // Use descriptive name on variables
 let myFirstJob = 'Programmer';
 let myCurrentJob = 'Teacher';
+
+// Data Types
+let age = 36;
+let myName = 'Pravash';
+let javaScriptIsFun = true;
+
+console.log(javaScriptIsFun);
+console.log(typeof javaScriptIsFun);
+console.log(typeof age);
+console.log(typeof myName);
+
+// Dynamic Typing
+javaScriptIsFun = 'Yes!';
+console.log(typeof javaScriptIsFun);
+
+let myLastName;
+console.log(myLastName);
+console.log(typeof myLastName);
+
+myLastName = 'Karki';
+
+console.log(typeof null);
+
